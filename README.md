@@ -1,2 +1,2 @@
 # Be.Stateless.Editor.Config
-Git submodule providing editor config and ReSharper settings
+Git submodule providing editor config and ReSharper settings.
