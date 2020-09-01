@@ -178,6 +178,8 @@
           &lt;Or&gt;&#xD;
             &lt;HasAttribute Name="Xunit.FactAttribute" /&gt;&#xD;
             &lt;HasAttribute Name="Xunit.TheoryAttribute" /&gt;&#xD;
+            &lt;HasAttribute Name="Xunit.SkippableFactAttribute" /&gt;&#xD;
+            &lt;HasAttribute Name="Xunit.SkippableTheoryAttribute" /&gt;&#xD;
           &lt;/Or&gt;&#xD;
         &lt;/And&gt;&#xD;
       &lt;/Entry.Match&gt;&#xD;
